@@ -90,3 +90,13 @@ Data Analyst | Python | Pandas | SQL | Power BI | Excel
 ## 📊 Power BI Dashboard
 
 ![Hospital Analytics Dashboard](final%20Health%20analytics.PNG)
+
+## 🛠️ Tools & Technologies
+
+- **Python** — Data cleaning, validation, and analysis
+- **Pandas** — Data manipulation and exploratory analysis
+- **Jupyter Notebook** — Data analysis workflow and documentation
+- **Microsoft Power BI** — Interactive dashboard development
+- **Power Query** — Data preparation and transformation
+- **DAX** — Measures and KPI calculations
+- **Data Visualization** — Charts, KPIs, and interactive reporting
