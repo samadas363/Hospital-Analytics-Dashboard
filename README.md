@@ -86,3 +86,7 @@ This project uses **synthetic/sample healthcare data created for educational and
 **Abdul Samad**
 
 Data Analyst | Python | Pandas | SQL | Power BI | Excel
+
+## 📊 Power BI Dashboard
+
+![Hospital Analytics Dashboard](final%20Health%20analytics.PNG)
