@@ -100,3 +100,13 @@ Data Analyst | Python | Pandas | SQL | Power BI | Excel
 - **Power Query** — Data preparation and transformation
 - **DAX** — Measures and KPI calculations
 - **Data Visualization** — Charts, KPIs, and interactive reporting
+
+- ## 🔍 Key Insights
+
+- Identified patterns in patient admissions and hospital activity.
+- Analyzed the distribution of patients across different departments.
+- Compared admission types and common diagnoses to understand patient trends.
+- Evaluated treatment costs and identified major cost-driving areas.
+- Analyzed patient satisfaction scores to understand healthcare service quality.
+- Examined patient length of stay to identify hospitalization patterns.
+- Created interactive Power BI visualizations to support healthcare performance analysis.
